@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797141551911",
+    "project_id": "cmp-workthrough",
+    "storage_bucket": "cmp-workthrough.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797141551911:android:41352f91fa100c1a553702",
+        "android_client_info": {
+          "package_name": "com.example.cmp_walkthrough_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB01KC4cWRhvYfJOggpWoctWOesbx-PjhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
